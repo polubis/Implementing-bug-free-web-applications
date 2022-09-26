@@ -1,0 +1,7 @@
+@import "libs/ui/styles/mixins";
+
+.layout {
+  @include col;
+  @include page;
+  @include space;
+}

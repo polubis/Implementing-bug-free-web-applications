@@ -33,6 +33,11 @@
         {
             "language": "typescript",
             "scheme": "file"
+        },
+        {
+            "language": "jsonc",
+            "scheme": "file",
+            "pattern": "tsconfig.json"
         }
     ]
 }
